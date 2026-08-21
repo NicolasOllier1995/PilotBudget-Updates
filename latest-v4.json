@@ -1,0 +1,10 @@
+{
+  "version": "4.0.0-alpha.0",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "mandatory": false,
+  "notes": [
+    "Canal V4 initialisé",
+    "Aucune mise à jour à installer avant la publication de V4 alpha 1"
+  ]
+}
