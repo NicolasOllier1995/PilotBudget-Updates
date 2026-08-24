@@ -1,12 +1,12 @@
 {
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.8/Lavyneo_Installation_Windows_4.0.8.exe",
-  "version": "4.0.8",
+  "sha256": "392deed47f175307f4221513231abc485dac2bb71aa395980c7193413ca8b268",
+  "version": "4.0.9",
   "mandatory": false,
-  "sha256": "885012891f9a7ddcd468458aeed86baacb4491e13bab4c1b3022aacafe39a64d",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.9/Lavyneo_Installation_Windows_4.0.9.exe",
   "notes": [
-    "Version stable Lavyneo V4",
-    "Lavyneo remplace PilotBudget V4 sans supprimer les données",
-    "Données V4 conservées dans un dossier indépendant",
-    "Canal de mises à jour V4 dédié"
+    "Sauvegarde OneDrive avec un dossier séparé par ordinateur",
+    "Messagerie d’assistance directement dans Lavyneo",
+    "Envoi volontaire et sécurisé d’une copie de sauvegarde",
+    "La base active reste locale et les données existantes sont conservées"
   ]
 }
