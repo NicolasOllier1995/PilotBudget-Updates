@@ -1,13 +1,13 @@
 {
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.10/Lavyneo_Installation_Windows_4.0.10.exe",
+  "version": "4.0.11",
   "notes": [
+    "Alerte de message d’assistance non lu sur l’accueil",
+    "Compteur conservé jusqu’à la lecture dans Contact",
     "Demandes d’assistance ouvertes affichées automatiquement",
-    "Signalement des nouveaux messages dans l’administration",
-    "Accusé Vu par l’assistance dans Lavyneo",
-    "Sauvegarde OneDrive séparée par ordinateur",
+    "Accusés de lecture entre l’utilisateur et l’assistance",
     "La base active reste locale et les données existantes sont conservées"
   ],
-  "version": "4.0.10",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.11/Lavyneo_Installation_Windows_4.0.11.exe",
   "mandatory": false,
-  "sha256": "0b526324d3d39bcbcc218b104b0292fa149f798f7e72a443d764f98004c676d9"
+  "sha256": "f375673d5d2d6ef4884dee7cc386dc1bd4b16978ccc339e402a3279c7eec1149"
 }
