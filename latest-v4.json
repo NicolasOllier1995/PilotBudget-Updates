@@ -1,12 +1,13 @@
 {
-  "sha256": "392deed47f175307f4221513231abc485dac2bb71aa395980c7193413ca8b268",
-  "version": "4.0.9",
-  "mandatory": false,
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.9/Lavyneo_Installation_Windows_4.0.9.exe",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.10/Lavyneo_Installation_Windows_4.0.10.exe",
   "notes": [
-    "Sauvegarde OneDrive avec un dossier séparé par ordinateur",
-    "Messagerie d’assistance directement dans Lavyneo",
-    "Envoi volontaire et sécurisé d’une copie de sauvegarde",
+    "Demandes d’assistance ouvertes affichées automatiquement",
+    "Signalement des nouveaux messages dans l’administration",
+    "Accusé Vu par l’assistance dans Lavyneo",
+    "Sauvegarde OneDrive séparée par ordinateur",
     "La base active reste locale et les données existantes sont conservées"
-  ]
+  ],
+  "version": "4.0.10",
+  "mandatory": false,
+  "sha256": "0b526324d3d39bcbcc218b104b0292fa149f798f7e72a443d764f98004c676d9"
 }
