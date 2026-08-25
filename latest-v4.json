@@ -1,13 +1,13 @@
 {
-  "sha256": "97ec31503c692894b2d2daa19518af973120a340719b191506911b85cec659fe",
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.12/Lavyneo_Installation_Windows_4.0.12.exe",
-  "version": "4.0.12",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.13/Lavyneo_Installation_Windows_4.0.13.exe",
+  "version": "4.0.13",
+  "mandatory": false,
+  "sha256": "beeade7d5e99b605d7af40ec8df8009f9a45952db03a42070ee956acb16e1ce1",
   "notes": [
-    "Barres de défilement plus larges et toujours visibles",
-    "Contraste turquoise renforcé dans la page et le menu latéral",
-    "Poignée plus facile à saisir au pavé tactile",
-    "Compatibilité clavier conservée pour naviguer sans souris",
+    "Historiques affichés comme de vraies pages Lavyneo",
+    "Barre de défilement turquoise placée au bord droit de l'écran",
+    "Dépenses, revenus, remboursements et virements concernés",
+    "Retour aux opérations clairement visible",
     "Les données existantes et les sauvegardes sont conservées"
-  ],
-  "mandatory": false
+  ]
 }
