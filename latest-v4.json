@@ -1,16 +1,18 @@
 {
+  "sha256": "158e37c3b9c21cb55be5791192f688cac8303427fc416b3eb3d0c8754ea8a2bc",
   "mandatory": false,
-  "version": "4.1.0",
-  "sha256": "9b3f70363cb1b71797f4ad8246fe0c0c6d44061068263f23b3b75fa2cd747a64",
   "notes": [
-    "Les dépenses en attente ne réduisent plus le solde réel des enveloppes",
-    "Encadré Débits à venir avec estimation du solde après débit",
-    "Résumé détaillé dans Voir les opérations : débité, à venir, solde actuel et solde estimé",
-    "Vérification automatique des mises à jour au démarrage",
-    "Alerte de mise à jour visible sur l'accueil et dans le menu",
-    "Boutons Voir les nouveautés et Installer la mise à jour",
-    "Barre de défilement du menu gauche réellement collée au bord",
+    "Revenus, remboursements et dépenses différés exclus des soldes réels et des propositions",
+    "Répartitions mensuelles séparées des remboursements et des transferts liés",
+    "Renommage des catégories sécurisé avec conservation complète de l'historique",
+    "Suppression des crédits liés corrigée",
+    "Cartes d'enveloppes de hauteur identique",
+    "Solde actuel en bleu, débits à venir en orange et projection en vert ou rouge",
+    "Contrôle non destructif de l'intégrité de chaque base",
+    "Sauvegardes locales limitées aux 30 copies les plus récentes par profil",
+    "Barre de défilement du menu gauche alignée sur le bord",
     "Les données existantes et les sauvegardes sont conservées"
   ],
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.0/Lavyneo_Installation_Windows_4.1.0.exe"
+  "version": "4.1.3",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.3/Lavyneo_Installation_Windows_4.1.3.exe"
 }
