@@ -1,14 +1,14 @@
 {
-  "sha256": "0b3f99c0ebe3585e8351b541ef450d8cb7bbf468ba0b5c6c7086fd36985a1405",
-  "version": "4.0.14",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.15/Lavyneo_Installation_Windows_4.0.15.exe",
+  "version": "4.0.15",
+  "mandatory": false,
+  "sha256": "744ed5cf305990c3982afa61f3ed3860fc57481d8b4b3f26a8a26b9eb2798a83",
   "notes": [
-    "Toutes les dates s'affichent au format JJ/MM/AAAA",
-    "Nouvel onglet Proposition de budget dans le Bilan",
-    "La proposition guidée est disponible aussi en mode piloté",
-    "L'Historique devient une vue entièrement comparative",
-    "Nouveaux graphiques annuels et comparaisons avec l'année précédente",
+    "Nouveau graphique groupé des dépenses par catégorie et par année",
+    "Une couleur distincte pour chaque année comparée",
+    "Choix entre total annuel et moyenne mensuelle",
+    "Jusqu'à cinq années sélectionnables, les trois dernières par défaut",
+    "Tableau détaillé conservé sous le graphique",
     "Les données existantes et les sauvegardes sont conservées"
-  ],
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.14/Lavyneo_Installation_Windows_4.0.14.exe",
-  "mandatory": false
+  ]
 }
