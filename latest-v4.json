@@ -1,14 +1,14 @@
 {
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.15/Lavyneo_Installation_Windows_4.0.15.exe",
-  "version": "4.0.15",
   "mandatory": false,
-  "sha256": "744ed5cf305990c3982afa61f3ed3860fc57481d8b4b3f26a8a26b9eb2798a83",
+  "sha256": "b2b7527638eec93cf60962d7c58c6b1f3e6d9900e0d63bac367a51771404f937",
   "notes": [
-    "Nouveau graphique groupé des dépenses par catégorie et par année",
-    "Une couleur distincte pour chaque année comparée",
-    "Choix entre total annuel et moyenne mensuelle",
-    "Jusqu'à cinq années sélectionnables, les trois dernières par défaut",
-    "Tableau détaillé conservé sous le graphique",
+    "Débit différé et pointage désormais mutuellement exclusifs",
+    "Pointage proposé lors de la confirmation d'un débit en attente",
+    "Case Pointer cette dépense cochée par défaut dans la confirmation",
+    "Indicateur vert visible pour les dépenses pointées dans les historiques",
+    "Barre de défilement du menu gauche recollée au bord",
     "Les données existantes et les sauvegardes sont conservées"
-  ]
+  ],
+  "version": "4.0.16",
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.16/Lavyneo_Installation_Windows_4.0.16.exe"
 }
