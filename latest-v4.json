@@ -1,14 +1,16 @@
 {
   "mandatory": false,
-  "sha256": "b2b7527638eec93cf60962d7c58c6b1f3e6d9900e0d63bac367a51771404f937",
+  "version": "4.1.0",
+  "sha256": "9b3f70363cb1b71797f4ad8246fe0c0c6d44061068263f23b3b75fa2cd747a64",
   "notes": [
-    "Débit différé et pointage désormais mutuellement exclusifs",
-    "Pointage proposé lors de la confirmation d'un débit en attente",
-    "Case Pointer cette dépense cochée par défaut dans la confirmation",
-    "Indicateur vert visible pour les dépenses pointées dans les historiques",
-    "Barre de défilement du menu gauche recollée au bord",
+    "Les dépenses en attente ne réduisent plus le solde réel des enveloppes",
+    "Encadré Débits à venir avec estimation du solde après débit",
+    "Résumé détaillé dans Voir les opérations : débité, à venir, solde actuel et solde estimé",
+    "Vérification automatique des mises à jour au démarrage",
+    "Alerte de mise à jour visible sur l'accueil et dans le menu",
+    "Boutons Voir les nouveautés et Installer la mise à jour",
+    "Barre de défilement du menu gauche réellement collée au bord",
     "Les données existantes et les sauvegardes sont conservées"
   ],
-  "version": "4.0.16",
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.0.16/Lavyneo_Installation_Windows_4.0.16.exe"
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.0/Lavyneo_Installation_Windows_4.1.0.exe"
 }
