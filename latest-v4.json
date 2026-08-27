@@ -1,8 +1,5 @@
 {
-  "sha256": "ab43a80f6c122f10d183ff111f77f9cc9f8098ec95acfa536ba7383bde94860f",
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.5/Lavyneo_Installation_Windows_4.1.5.exe",
-  "mandatory": false,
-  "version": "4.1.5",
+  "sha256": "8cb614a9579bfcdf310768a42b7ed721e2a8fe51ef22a533a1d2ea3a78ea3c11",
   "notes": [
     "Revenus, remboursements et dépenses différés exclus des soldes réels et des propositions",
     "Répartitions mensuelles séparées des remboursements et des transferts liés",
@@ -12,7 +9,27 @@
     "Solde actuel en bleu, débits à venir en orange et projection en vert ou rouge",
     "Contrôle non destructif de l'intégrité de chaque base",
     "Sauvegardes locales limitées aux 30 copies les plus récentes par profil",
-    "Barre de défilement du menu gauche alignée sur le bord",
+    "Filtres stricts limités à l'enveloppe ouverte pour les répartitions, remboursements et virements",
+    "Fenêtre des opérations ouverte par défaut du 1er janvier à la fin du mois courant",
+    "Historique d'enveloppe présenté en lignes claires sans grille vide",
+    "Filtre Crédit enrichi avec les crédits enregistrés et les sous-catégories personnalisées",
+    "Crédit associé choisi avant la précision et précision préremplie automatiquement",
+    "Lignes d'opérations agrandies avec pastilles de type, montant et état",
+    "Fenêtre des opérations élargie à 77 pour cent avec contenu agrandi",
+    "Colonne Sous-catégorie unique : l'intitulé remplace automatiquement Sans précision",
+    "Historique des enveloppes d'épargne ouvert dans une véritable fenêtre",
+    "Tableau et résumé alignés avec un espace confortable avant le bouton Fermer",
+    "Remboursements distingués par une pastille turquoise",
+    "Toutes les enveloppes positives restent bleues, sans état À surveiller trompeur",
+    "Barres de progression et pourcentages retirés des cartes d'enveloppes",
+    "Bilan annuel par catégorie avec remboursements déduits",
+    "Photographie figée des enveloppes à la clôture annuelle",
+    "Année affichée dans le solde d'ouverture de la clôture",
+    "Clôture annuelle figée automatiquement, sans assistant d'ajustement",
+    "Barre de défilement portée par le bord physique du menu gauche",
     "Les données existantes et les sauvegardes sont conservées"
-  ]
+  ],
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.9/Lavyneo_Installation_Windows_4.1.9.exe",
+  "version": "4.1.9",
+  "mandatory": false
 }
