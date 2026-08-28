@@ -5,7 +5,9 @@
   "sha256": "e8ed5aa3db925162e1265ac7cdaa0365555892400d12c4c8cfb96b8d01b80037",
   "notes": [
     "Onglet Opérations coloré sans modifier son architecture ni son parcours",
+    "Dépense, Revenu, Remboursement et Virement disposent chacun d'une teinte légère et moderne",
     "Formulaires entourés de bleu, vert, turquoise ou violet selon le type d'opération",
+    "Panneau En attente de débit légèrement translucide pour alléger l'affichage",
     "Montants allégés pour une meilleure lisibilité, avec les dépenses et débits différés en rouge",
     "Historique simplifié avec Pointée, À pointer, Débit différé ou Crédit différé",
     "Menus à trois points conservés pour modifier, pointer ou supprimer chaque opération",
@@ -13,6 +15,8 @@
     "Lignes Disponible de l'accueil mises en valeur par un vert léger transparent",
     "Mois budgétaire sélectionnable après la saisie d'un salaire, d'une prime ou d'une allocation",
     "Date bancaire conservée tandis que la répartition et le Bilan utilisent le mois choisi",
+    "Répartition manuelle des enveloppes acceptée au centime près, y compris la totalité du disponible (ex. 23,99 €)",
+    "Les enveloppes sans mensualité prévue restent accessibles par Répartition manuelle",
     "Revenus, remboursements et dépenses différés exclus des soldes réels et des propositions",
     "Répartitions mensuelles séparées des remboursements et des transferts liés",
     "Renommage des catégories sécurisé avec conservation complète de l'historique",
