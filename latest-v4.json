@@ -1,8 +1,6 @@
 {
-  "version": "4.1.10",
-  "mandatory": false,
-  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.10/Lavyneo_Installation_Windows_4.1.10.exe",
-  "sha256": "00f95a86efda18eb45f342b6f0e8da7afd8e0dc6e3429e5884c4b5ceec5c9b14",
+  "sha256": "7efb3a417bf4389fec63f6d582327148811ae6f01a850d030c0a1579c1a04de7",
+  "version": "4.1.12",
   "notes": [
     "Onglet Opérations coloré sans modifier son architecture ni son parcours",
     "Formulaires entourés de bleu, vert, turquoise ou violet selon le type d'opération",
@@ -40,5 +38,7 @@
     "Clôture annuelle figée automatiquement, sans assistant d'ajustement",
     "Barre de défilement portée par le bord physique du menu gauche",
     "Les données existantes et les sauvegardes sont conservées"
-  ]
+  ],
+  "mandatory": false,
+  "installer_url": "https://github.com/NicolasOllier1995/PilotBudget-Updates/releases/download/v4.1.12/Lavyneo_Installation_Windows_4.1.12.exe"
 }
